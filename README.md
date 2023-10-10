@@ -17,7 +17,7 @@ Welcome to our Simple E-Commerce website! This platform is built using HTML, CSS
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-website.git
+   git clone [https://github.com/your-username/e-commerce-website.git](https://github.com/VipulSharma0001/E-commerce-Website/tree/main/e-commerse%20website)
 **Open the Project:**
 
 Navigate to the project folder.
